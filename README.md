@@ -114,7 +114,3 @@ flowchart LR
 - Implement security groups and least-privilege access patterns.
 - Add Windows Event Forwarding or basic SIEM ingestion for authentication logs.
 - Document backup and restore steps for Active Directory recovery.
-
-## Reference
-
-This lab was inspired by a hands-on Active Directory tutorial: [YouTube reference](https://www.youtube.com/watch?v=MHsI8hJmggI&t=3444s). The implementation and documentation here are written as a professional portfolio case study with sanitized evidence and reusable administration artifacts.
