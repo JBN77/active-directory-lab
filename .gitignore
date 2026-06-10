@@ -1,0 +1,9 @@
+# Keep raw, unredacted evidence out of the public repository.
+assets/evidence/
+
+# Windows noise
+Thumbs.db
+Desktop.ini
+
+# Editor noise
+.vscode/
